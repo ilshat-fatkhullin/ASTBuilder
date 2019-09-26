@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilderTest\\ASTBuilderTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilderTest\\ASTBuilderTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilderTest\\ASTBuilderTest.csproj",
+        "projectName": "ASTBuilderTest",
+        "projectPath": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilderTest\\ASTBuilderTest.csproj",
+        "packagesPath": "C:\\Users\\ilsha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilderTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ilsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\ASTBuilder.csproj": {
+                "projectPath": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\ASTBuilder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\ASTBuilder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\ASTBuilder.csproj",
+        "projectName": "ASTBuilder",
+        "projectPath": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\ASTBuilder.csproj",
+        "packagesPath": "C:\\Users\\ilsha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilsha\\source\\repos\\ASTBuilder\\ASTBuilder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ilsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

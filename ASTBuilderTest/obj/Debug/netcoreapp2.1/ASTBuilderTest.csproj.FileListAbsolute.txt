@@ -1,0 +1,17 @@
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilderTest.deps.json
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilderTest.runtimeconfig.json
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilderTest.runtimeconfig.dev.json
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilderTest.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilderTest.pdb
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilder.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\bin\Debug\netcoreapp2.1\ASTBuilder.pdb
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.csprojAssemblyReference.cache
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.csproj.CoreCompileInputs.cache
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.AssemblyInfoInputs.cache
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.AssemblyInfo.cs
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.csproj.CopyComplete
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.dll
+C:\Users\ilsha\source\repos\ASTBuilder\ASTBuilderTest\obj\Debug\netcoreapp2.1\ASTBuilderTest.pdb
